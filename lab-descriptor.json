@@ -59,7 +59,14 @@
     "repo": "https://github.com/virtual-labs/exp-elastic-inelastic-collision-amrt",
     "tag": "v1.0.0",
     "deploy": true
-  }
+  },
+{
+  "name": "Torsional Oscillations in Different Liquids",
+  "short-name": "torsional-oscillations-liquids",
+  "repo": "https://github.com/virtual-labs/exp-torsional-oscillations-liquids-amrt",
+  "tag": "v1.0.0",
+  "deploy": true
+}
 ],
     "targetAudience": {
         "UG": [
