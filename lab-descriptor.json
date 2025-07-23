@@ -29,7 +29,7 @@
     "name": "Newton's Second Law of Motion",
     "short-name": "newtons-second-law",
     "repo": "https://github.com/virtual-labs/exp-newtons-second-law-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
