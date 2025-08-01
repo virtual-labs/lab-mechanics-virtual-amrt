@@ -15,56 +15,56 @@
     "name": "Torque and angular acceleration of a fly wheel",
     "short-name": "torque-angular-acceleration",
     "repo": "https://github.com/virtual-labs/exp-torque-angular-acceleration-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Moment of Inertia of Flywheel",
     "short-name": "moment-inertia-flywheel",
     "repo": "https://github.com/virtual-labs/exp-moment-inertia-flywheel-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Newton's Second Law of Motion",
     "short-name": "newtons-second-law",
     "repo": "https://github.com/virtual-labs/exp-newtons-second-law-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Ballistic Pendulum",
     "short-name": "ballistic-pendulum",
     "repo": "https://github.com/virtual-labs/exp-ballistic-pendulum-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Collision balls",
     "short-name": "collision-balls",
     "repo": "https://github.com/virtual-labs/exp-collision-balls-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Projectile Motion",
     "short-name": "projectile-motion",
     "repo": "https://github.com/virtual-labs/exp-projectile-motion-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Elastic and Inelastic Collision",
     "short-name": "elastic-inelastic-collision",
     "repo": "https://github.com/virtual-labs/exp-elastic-inelastic-collision-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
 {
   "name": "Torsional Oscillations in Different Liquids",
   "short-name": "torsional-oscillations-liquids",
   "repo": "https://github.com/virtual-labs/exp-torsional-oscillations-liquids-amrt",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 }
 ],
